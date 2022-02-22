@@ -1,4 +1,3 @@
-# 
 ﻿# Unreal Engine. Blueprint project. Mechanics Grappling-Hook (Seciro)
  
 Проект создан вдохновившись играми где реализована система (крюка, гарпуна)**
